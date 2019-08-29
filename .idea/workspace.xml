@@ -215,7 +215,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="26" width="1400" height="820" extended-state="0" />
+    <frame x="22" y="26" width="1400" height="820" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
